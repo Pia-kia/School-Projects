@@ -1,0 +1,50 @@
+body {
+    background-color:  rgb(187, 228, 163);
+}
+
+div {
+    height: 385;   
+    padding: 15px;
+  }
+.header {
+    font-size: 4em;
+    font-family: cursive;
+    text-align-last: center; 
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.imga{
+    width: 500px;
+    height: 350px;
+    position: relative;
+    left: 37%;
+}
+
+#paragraph {
+    text-align-last: center; 
+    text-align: center;
+    font-family: cursive;
+    display: inline;
+}
+
+#divimg {
+    width: 150px;
+    display: inline
+}
+
+.headerimg1 {
+    width: 50px;
+    position: absolute;
+    left: 60%;
+    top: 2%;
+    -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.headerimg2 {
+    width: 50px;
+    position: absolute;
+    left: 37.5%;
+    top: 13%;
+}
